@@ -1,0 +1,41 @@
+_repo: The-Unicorn-from-the-Stars-and-Other-Plays_26144
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gregory, Lady
+    aliases:
+    - Gregory, Isabella Augusta Persse, Lady
+    - Persse, Isabella Augusta
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '4092'
+    url: http://www.gutenberg.org/2009/agents/4092
+    wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
+  - agent_name: Yeats, W. B. (William Butler)
+    alias: Yeats, William Butler
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '1719'
+    url: http://www.gutenberg.org/2009/agents/1719
+    wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
+description: ''
+gutenberg_issued: '2008-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26144'
+  lccn: 08016447
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Drama'
+- !lcc 'PR'
+- !lcsh 'Irish drama'
+tableOfContents: "The Unicorn from the Stars, By Gregory and Yeats.\r\nCathleen ni\
+  \ Houlihan, By Yeats.\r\nThe Hour-Glass, By Yeats."
+title: The Unicorn from the Stars and Other Plays
+url: http://www.gutenberg.org/ebooks/26144
